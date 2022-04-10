@@ -17,4 +17,4 @@ BlueCorpse [the guy writing this] got bored
 
 # Can you put me in the website as an easter egg?
 
-Sadly no (CoderrMan hates you :'(
+Sadly no [CoderrMan hates you :'(]
